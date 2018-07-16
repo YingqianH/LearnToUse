@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8afaad38-e0b1-4b2d-9bc0-1c72f9b639d1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="8afaad38-e0b1-4b2d-9bc0-1c72f9b639d1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,9 +15,9 @@
       <file leaf-file-name="solution.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            <state>
               <folding>
+                <element signature="e#87#88#0" expanded="true" />
                 <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
@@ -197,9 +195,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        <state>
           <folding>
+            <element signature="e#87#88#0" expanded="true" />
             <element signature="e#136#137#0" expanded="true" />
           </folding>
         </state>
