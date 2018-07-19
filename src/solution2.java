@@ -3,4 +3,5 @@ public static void main(String[] args) {
     //NV
    //print hello world here
    System.out.println("hello");
+   System.out.println("world");
 }
