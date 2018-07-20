@@ -3,8 +3,4 @@ public class solution {
         System.out.println("hello world!");
 	System.out.print();
     }
-}//for NV
-//for NB
-//for test
-//test again
-
+}
