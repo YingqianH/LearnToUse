@@ -3,4 +3,5 @@ public static void main(string[] args) {
     int a = 2;
     int a = 3;
     int a = 4;
+    int a = 5;
 }
